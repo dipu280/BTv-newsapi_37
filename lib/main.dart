@@ -1,5 +1,5 @@
+import 'package:BTV_37/screen/home_page.dart';
 import 'package:flutter/material.dart';
-import 'package:newsapp_37/screen/home_page.dart';
 
 void main() {
   runApp(const MyApp());
